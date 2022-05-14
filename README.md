@@ -14,6 +14,9 @@ Repository for code made for IHLP Final Project
 - Share joining code instantly on social media platforms
 - Simple and intuitive UI
 
+### Home Page
+
+![enter image description here](https://user-images.githubusercontent.com/48746544/115701626-9b838e00-a385-11eb-8a07-214ca0b9f327.png)
 
 ## Tech Stack 💻
 
