@@ -1,10 +1,10 @@
 import React from "react";
 import { HeartTwoTone } from "@ant-design/icons";
-import "./Footer.css";
+import "./Header.css";
 
-const Footer = () => {
+const Header = () => {
   return (
-    <footer className="footer">
+    <Header className="header">
       Made with <HeartTwoTone twoToneColor="#eb2f96" /> By{" "}
       <a
         className="footer__link"
@@ -13,10 +13,10 @@ const Footer = () => {
         style={{ color: "#fdfdfd" }}
         rel="noreferrer"
       >
-        Rama Chetan Atmudi, Abhinav Ramagiri, M. Sai Venkata Vivek Sagar Reddy
+        Internet and Higher Layer Protocol Final Project
       </a>
-    </footer>
+    </Header>
   );
 };
 
-export default Footer;
+export default Header;
