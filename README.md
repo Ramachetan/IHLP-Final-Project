@@ -1,28 +1,22 @@
-# IHLP-Final-Project
-Repository for code made for IHLP Final Project
+# IHLP-Final-Project Code Repository for IHLP Final Project
 
-## Features and Functionalities
+## Functions and features
 
-- Video Call with others
-- Mute audio/video
-- Instantly join a video call with a code
-- Chat in real-time
-- Chat Notifications
--  Now, supports real-time screen sharing also (Thanks to [chand10-beg](https://github.com/chand10-beg))
-- Install it as a PWA (Progressive Web App) on your device
-- Unlimited duration calls
-- Share joining code instantly on social media platforms
-- Simple and intuitive UI
+- Make a video call with others
+- Mute audio/video - Use a code to instantly join a video call
+- Real-time chat - Chat notifications
+- Real-time screen sharing is now supported (thanks to [chand10-beg](https://github.com/chand10-beg))
+- Download and install it on your smartphone as a PWA (Progressive Web App).
+- Calls with no time limit
+- Immediately share the joining code on social media channels.
+- An easy-to-use user interface
 
-### Home Page
+## Technology Stack
 
-![enter image description here](https://user-images.githubusercontent.com/48746544/115701626-9b838e00-a385-11eb-8a07-214ca0b9f327.png)
-
-## Tech Stack 💻
-
-- [React.js](https://reactjs.org/)
-- [Netlify + Heroku (Hosting)](https://www.netlify.com/)
-- [Web RTC](https://github.com/webrtc)
-- [Socket.io](https://socket.io/)
-- [Node.js](https://nodejs.org/en/)
-- [Ant Design](https://ant.design/)
+- [https://reactjs.org/](https://reactjs.org/)
+- [Netlify + Heroku (Storage)]
+(https://www.netlify.com/)
+- [Web RTC](github.com/webrtc)
+- [https://socket.io/](https://socket.io/)
+- Node.js (https://nodejs.org/en/).
+- [https://ant.design/](https://ant.design/)
